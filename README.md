@@ -1,5 +1,7 @@
 
-![alt text](https://raw.githubusercontent.com/Asad-Mirza/asad-mirza/main/profile_banner%202.png)
+![alt text](https://raw.githubusercontent.com/Asad-Mirza/asad-mirza/main/profile_banner%203.png)
+![alt text](https://raw.githubusercontent.com/Asad-Mirza/asad-mirza/main/skills_card.png)
+
 
 <!--
 **Asad-Mirza/asad-mirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
