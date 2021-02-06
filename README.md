@@ -1,5 +1,5 @@
 ### Hi there, Welcome to Asad's World 👋
-
+![alt text](./profile_banner 2.png)
 <!--
 **Asad-Mirza/asad-mirza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
